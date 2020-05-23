@@ -46,6 +46,9 @@ function App() {
   return (
     <div className="App app-background">
     <main>
+      <div className='title'>
+        Weather App
+      </div>
 
       <div className='search-box'>
         <input 
