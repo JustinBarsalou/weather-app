@@ -5,7 +5,7 @@ import Weather from './components/main'
 const Router = () => {
     return (
         <Switch>
-          <Route path="/Weather" component={Weather} />
+          <Route path="/main" component={Weather} />
 
         </Switch>
     );
